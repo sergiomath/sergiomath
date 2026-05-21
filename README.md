@@ -33,7 +33,7 @@ See the pinned repositories above ⬆️
 ---
 
 > _"AI will not replace actuaries — it will replace actuaries who don't use AI."_
-### Hi there 👋
+
 
 <!--
 **sergiomath/sergiomath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
